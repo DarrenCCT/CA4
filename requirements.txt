@@ -1,0 +1,11 @@
+pyspark
+pandas
+numpy
+matplotlib
+seaborn
+sklearn
+nltk
+textblob
+wordcloud
+statsmodels
+openpyxl
